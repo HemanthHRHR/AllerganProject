@@ -1,0 +1,5 @@
+package com.te.project.model;
+
+public class Employee {
+
+}

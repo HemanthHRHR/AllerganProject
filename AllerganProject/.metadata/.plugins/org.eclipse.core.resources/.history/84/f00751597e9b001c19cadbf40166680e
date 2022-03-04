@@ -1,0 +1,5 @@
+package com.te.project.dao;
+
+public interface Dao {
+
+}
